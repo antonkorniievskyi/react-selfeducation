@@ -2,7 +2,7 @@
 ## Technologies Used
   - [React](https://reactjs.org/)
   - [TypeScript](https://www.typescriptlang.org/)
-  - [Eslit](https://eslint.org/)
+  - [Eslint](https://eslint.org/)
 
 ## Setup
 Project requirements: node v16.13.1, yarn v1.22.19
